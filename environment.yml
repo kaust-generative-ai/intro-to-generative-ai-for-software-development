@@ -7,10 +7,13 @@ channels:
 dependencies:
   - gh
   - git
+  - jupyter-ai
   - jupyterlab
   - jupyterlab-lsp
+  - langchain-openai
   - pip
   - pip:
     - -r requirements.txt
   - python
+  - python-dotenv
   - python-lsp-server
