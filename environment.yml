@@ -1,0 +1,16 @@
+name: null
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - gh
+  - git
+  - jupyterlab
+  - jupyterlab-lsp
+  - pip
+  - pip:
+    - -r requirements.txt
+  - python
+  - python-lsp-server
