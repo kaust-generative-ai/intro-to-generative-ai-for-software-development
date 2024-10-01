@@ -1,5 +1,9 @@
 # intro-to-generative-ai-for-software-development
-Course materials for Introduction to Generative AI for Software Development from Deep Learning AI.
+Course materials for Introduction to Generative AI for Software Development from Deep Learning AI. These 
+materials rely primarily on locally deployed LLMs using the following tools.
+
+1. [Ollama](https://ollama.com) ([GitHub](https://github.com/ollama/ollama)): Get up and running with Llama 3, Mistral, Gemma 2, and other large language models. Uses [LLaMA C++](https://github.com/ggerganov/llama.cpp) as the backend.
+2. [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab.
 
 ## Installation
 
